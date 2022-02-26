@@ -18,3 +18,4 @@ const dreamStringify = JSON.stringify(shop);
 console.log(dreamStringify);
 const convertedIntoRegularArray = JSON.parse(dreamStringify);
 console.log(convertedIntoRegularArray);
+
